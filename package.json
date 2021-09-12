@@ -10,7 +10,7 @@
     "oceanic",
     "night"
   ],
-  "repository": "https://github.com/dessasin/Flager-ui.git",
+  "repository": "https://github.com/dessasin/flager-ui.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
