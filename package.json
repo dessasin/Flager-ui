@@ -5,7 +5,10 @@
   "description": "Dark Eyecandy UI Theme For Atom Editor",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "dark",
+    "oceanic",
+    "night"
   ],
   "repository": "https://github.com/dessasin/Flager-ui",
   "license": "MIT",
