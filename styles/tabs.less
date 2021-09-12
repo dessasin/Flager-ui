@@ -16,8 +16,11 @@
     font-size: @font-size;
     border-right: 1px solid @tab-border-color;
     background-color: @tab-background-color;
+    &:hover{
+     color: @text-color-highlight;
+    }
     &.active {
-      color: @text-color-selected;
+      color: @ui-site-color-4;
       background-color: @tab-background-color-active;
     }
 
